@@ -1,0 +1,2 @@
+# Data-Pipeline-and-Analysis-Tokyo-Olympics-with-Azure-Services
+☁️🛠️ This project leverages Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, and Azure Synapse Analytics to create a comprehensive data pipeline and analysis framework for the 2021 Tokyo Olympics dataset. The repository showcases the end-to-end workflow, from initial data setup to in-depth data analytics and visualization. 🗂️🚀
