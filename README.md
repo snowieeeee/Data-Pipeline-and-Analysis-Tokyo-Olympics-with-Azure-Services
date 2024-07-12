@@ -1,12 +1,11 @@
 # Data-Pipeline-and-Analysis-Tokyo-Olympics-with-Azure-Services
-☁️🛠️ This project leverages Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, and Azure Synapse Analytics to create a comprehensive data pipeline and analysis framework for the 2021 Tokyo Olympics dataset. The repository showcases the end-to-end workflow, from initial data setup to in-depth data analytics and visualization. 🗂️🚀
+☁️🛠️ This project leverages Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Azure Synapse Analytics, and Power BI to create a comprehensive data pipeline and analysis framework for the 2021 Tokyo Olympics dataset. The repository showcases the end-to-end workflow, from initial data setup to in-depth data analytics and visualization, including the creation of a dynamic dashboard. 🗂️🚀
 
 ## Architecture
 ![Architecture](https://github.com/snowieeeee/Data-Pipeline-and-Analysis-Tokyo-Olympics-with-Azure-Services/blob/main/architecture.jpg)
 
 ## Data Source
 The dataset is sourced from Kaggle and contains detailed information about over 11,000 athletes, 47 disciplines, and 743 teams that participated in the 2021 (2020) Tokyo Olympics. It includes details about the athletes, coaches, teams, entries by gender, and medals won. The data is stored in GitHub’s CSV files accessible in this repository.
-
 
 ## Tools Used
 - **GitHub:** For version control and managing data sources.
